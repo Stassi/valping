@@ -1,10 +1,9 @@
 {
   "name": "valping",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "Valheim server info.",
   "keywords": [
-    "steam",
-    "valheim"
+    "deprecated"
   ],
   "homepage": "https://github.com/Stassi/valping#readme",
   "license": "MIT",
